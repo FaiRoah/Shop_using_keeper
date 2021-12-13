@@ -1,0 +1,14 @@
+2
+
+PRODUCT
+name:asf
+price:1
+count:3
+amount:3
+
+PRODUCT
+name:asjgijld
+price:20.13
+count:4
+amount:80.52
+
